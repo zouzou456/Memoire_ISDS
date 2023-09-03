@@ -1,4 +1,4 @@
-# Memoire_ISDS
+# Memoire ISDS
 # Projet de détection des transactions frauduleuses
 
 Ce projet vise à développer un modèle de détection des transactions frauduleuses à l'aide de la régression logistique. L'objectif est d'identifier les transactions potentiellement frauduleuses dans un ensemble de données de transactions.
