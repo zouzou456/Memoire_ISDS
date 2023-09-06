@@ -56,7 +56,7 @@ La régression logistique est une méthode couramment utilisée pour la classifi
 ## Matrice de corrélation
 
 Pour mieux comprendre les relations entre les différentes variables dans les données, une matrice de corrélation peut être utilisée. La matrice de corrélation permet de visualiser les corrélations entre les variables numériques.
-![Matrice de corrélation](https://github.com/zouzou456/Memoire_ISDS/blob/main/correlation.jpg)
+![Matrice de corrélation](correlation.jpg)
 
 Cette matrice de corrélation montre la corrélation entre les différentes variables.
 
@@ -65,7 +65,7 @@ Cette matrice de corrélation montre la corrélation entre les différentes vari
 
 Le code fournit également une comparaison des performances du modèle de régression logistique avec d'autres approches de classification telles que la régression logistique, les k plus proches voisins, le support vector classifier et le decision tree classifier. Les résultats de chaque approche sont affichés et permettent de comparer les performances en termes de précision, de rappel et de F-mesure.
 
-![Comparaison des performances](https://github.com/zouzou456/Memoire_ISDS/blob/main/performance.PNG)
+![Comparaison des performances](performance.PNG)
 
 Cette image présente les différences de résultats entre les différentes approches de classification. Elle met bien en évidence que la régression logistique est la plus efficace des méthodes
 
