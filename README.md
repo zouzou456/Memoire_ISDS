@@ -11,10 +11,10 @@ Ce projet propose une solution de détection des transactions frauduleuses basé
 
 Le projet contient les éléments qui suivent :
 
-- [Mémoire](https://drive.google.com/file/d/1CqI63ZkpawWfEPY3dUiIvfvIyk5-g3lV/view?usp=sharing) : ce fichier détaille la méthodologie utilisée ainsi que les résultats obtenus.
+- [Mémoire](https://drive.google.com/file/d/1TdvaVXTq4_nmisiPGA9zMiKNXF9omowZ/view?usp=sharing) : ce fichier détaille la méthodologie utilisée ainsi que les résultats obtenus.
 - [train.csv](https://drive.google.com/file/d/1jOXBGoaOWDcn8KV3D1f3Vy87molEfHsp/view?usp=sharing) : ce fichier contient les données d'entraînement utilisées pour ajuster le modèle.
 - [test.csv](https://drive.google.com/file/d/1KUm7q-bw6tP3JGpudfn9rp7El_gHygUn/view?usp=sharing) : ce fichier contient les données de test utilisées pour évaluer les performances du modèle.
-- [code.ipynb](lien_vers_code) : ce fichier contient le code principal du modèle de régression logistique.
+- [code.ipynb](https://github.com/zouzou456/Memoire_ISDS/blob/main/code.ipynb) : ce fichier contient le code principal du modèle de régression logistique.
 
 ## Utilisation
 
