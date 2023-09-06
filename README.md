@@ -21,10 +21,11 @@ Le projet contient les éléments qui suivent :
 Pour exécuter ce projet, vous devez disposer des dépendances suivantes :
 
 - Python 3.7 ou une version ultérieure
+- Jupyter Notebook
 - Les bibliothèques Python suivantes : numpy, pandas, scikit-learn
 
 
-Pour utiliser le modèle de régression logistique, exécutez le fichier `code.ipynb` :
+Pour utiliser le modèle de régression logistique, ouvrez le fichier `code.ipynb` :
 
 Le code chargera les données d'entraînement à partir du fichier `train.csv` et effectuera l'ajustement du modèle de régression logistique. Il utilisera ensuite les données de test à partir du fichier `test.csv` pour évaluer les performances du modèle. Les résultats obtenus sur l'ensemble de test, y compris la précision, le rappel et la F-mesure, seront affichés à la fin de l'exécution du code. Il délivrera un fichier submission avec les valeurs mises à jour avec la méthode utilisée
 
