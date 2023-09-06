@@ -33,7 +33,7 @@ Le code chargera les données d'entraînement à partir du fichier `train.csv` e
 
 Avant de présenter le modèle de détection des transactions frauduleuses, il est important de comprendre les données utilisées dans ce projet. Le jeu de données est un ensemble de données qui contient des informations sur les transactions effectuées par des utilisateurs de cartes de crédit. Chaque transaction est décrite par un ensemble de variables telles que le montant de la transaction, la date et l'heure, le pays, ainsi que des caractéristiques anonymisées des utilisateurs. Le jeu de données est étiqueté, ce qui signifie qu'il indique si chaque transaction est frauduleuse (classe positive) ou légitime (classe négative).
 
-![Présentation des données](https://github.com/zouzou456/Memoire_ISDS/blob/main/presentation.PNG)
+![Présentation des données](presentation.PNG)
 
 Cependant, il est important de noter que le jeu de données est déséquilibré, avec un nombre beaucoup plus élevé de transactions légitimes que de transactions frauduleuses. On peut le voir sur l'image suivante où sont calculées les proportions respectives de transactions légitimes et frauduleuses
 
